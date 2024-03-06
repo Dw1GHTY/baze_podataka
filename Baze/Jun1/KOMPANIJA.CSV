@@ -1,0 +1,15 @@
+INSERT INTO KOMPANIJA VALUES(1,'Agro Promet','Stepana Jocića', 4, 'Niš', 18000, 'Srbija', 3322642307);
+INSERT INTO KOMPANIJA VALUES(2,'Villager','Zorana Đinđića', 12, 'Niš', 18000, 'Srbija', 9934825612);
+INSERT INTO KOMPANIJA VALUES(3,'Carnex','Stepe Stepanovića', 21, 'Beograd', 11000, 'Srbija', 1231245566);
+INSERT INTO KOMPANIJA VALUES(4,'Allianz','Sabner Strasse', 3, 'Munchen', 30100, 'Nemčka', 8603048721);
+INSERT INTO KOMPANIJA VALUES(5,'Regent','Milana Obrenovića', 10, 'Niš', 18000, 'Srbija', 1002233142);
+INSERT INTO KOMPANIJA VALUES(6,'Rauch','Uberstrasse', 99, 'Berlin', 30800, 'Nemčka', 9992348652);
+INSERT INTO KOMPANIJA VALUES(7,'Mercedes-Benz','Rommel Strasse', 25, 'Stuttgart', 3900, 'Nemčka', 8453920688);
+INSERT INTO KOMPANIJA VALUES(8,'Goldman Sachs','5th Avenue', 5, 'New York', 10005, 'SAD', 9995554441);
+INSERT INTO KOMPANIJA VALUES(9,'Astra Zeneca','Rochester Street', 86, 'Camebridge', 20003, 'Engleska, 6482069851');
+INSERT INTO KOMPANIJA VALUES(10,'Repsol', 'Columbo', 22, 'Madrid', 28001, 'Španija', 8901235751);
+INSERT INTO KOMPANIJA VALUES(11,'Shell', 'Regens Strasse', 4, 'Vienna', 12900, 'Austrija', 7878982320);
+INSERT INTO KOMPANIJA VALUES(12,'SpaceX', 'Eisenhower Blvd', 77, 'Los Angeles', 60500,'SAD', 5793475816);
+INSERT INTO KOMPANIJA VALUES(13,'Adidas', 'Berliner Strasse', 101, 'Berlin', 30800,'Nemčka', 8844223310);
+INSERT INTO KOMPANIJA VALUES(14,'Toyota', 'Shinzo-Sasageyo', 8, 'Tokyo', 99001, 'Japan', 3321323387);
+INSERT INTO KOMPANIJA VALUES(15,'Gucci', 'Piazza della Signoria', 12, 'Firenza', 50001, 'Italija', 5749375943);
